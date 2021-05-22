@@ -21,7 +21,7 @@ a:hover {
 }
 
 p {
-  font-size: 0.75rem;
+  font-size: 0.90rem;
   padding: 30px;
     line-height: 2;
       font-family: 'Montserrat', sans-serif;
@@ -31,7 +31,7 @@ h1 {
   margin: 50px auto 0 auto;
   font-family: 'Montserrat', sans-serif;
   font-size: 5.625rem;
-  color: #4e3620;
+  color: #a0937d;
 }
 
 h2 {
@@ -51,10 +51,18 @@ h3 {
 
 
 hr {
-  border: dotted #e1e5ea 6px;
+  border: dotted #dfd3c3 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
+}
+
+.web{
+  text-decoration: underline;
+  color: #92967d;
+}
+.developer{
+  text-decoration: none;
 }
 
 .bio {
