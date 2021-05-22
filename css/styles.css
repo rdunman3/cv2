@@ -64,8 +64,9 @@ hr {
 .top-container {
   background-color: #faf3e0;
   position: relative;
-  padding-top: 100px;
+  padding-top: 75px;
   line-height: 1.5;
+  padding-bottom: 100px;
 }
 
 .middle-container {
